@@ -1,54 +1,77 @@
-# Donnel Celwin AI/ML Engineer GitHub README
-
-from IPython.display import display, Markdown
-
-readme_content = '''
 # Donnel Celwin - Senior AI/ML Engineer
 
 
-## About Me
-Senior AI / ML Engineer with 8+ years of experience designing and deploying production ML pipelines, NLP systems, and predictive analytics platforms. Skilled in MLOps, cloud-based AI infrastructure, and scalable machine learning systems.
+---
 
-## Skills
-- **ML Frameworks:** PyTorch, TensorFlow, XGBoost, Hugging Face Transformers, LSTMs
-- **Cloud & MLOps:** AWS SageMaker, GCP AI Platform, Kubernetes, Docker, MLflow, Terraform
-- **Data Engineering:** Delta Lake, Spark, Airflow, Feast, SQL, Python
-- **AI Pipelines:** Vector Databases (Pinecone, pgvector), RAG Pipelines, LLM-ready architectures
-- **Monitoring & Observability:** Grafana, Prometheus, CloudWatch
+## 🔹 About Me
+Senior AI / ML Engineer with 8+ years building scalable ML pipelines, NLP systems, and predictive analytics platforms. Deep expertise in MLOps, cloud-based AI infrastructure, and production-grade machine learning systems.
 
-## Experience
-### Dreamlabsdigital | Senior AI/ML Engineer | Chicago, IL | Apr 2022 - Present
-- Lead ML engineering team managing 12 production models.
-- Built clinical risk prediction and NLP pipelines with LSTM and BERT ensembles.
-- Reduced model refresh cycle from 6 weeks to 48 hours.
+- 🏢 Current Role: Lead ML Engineer at Dreamlabsdigital
+- 🌍 Location: Chicago, IL, USA
+- 💼 Experience: AI/ML, Cloud, MLOps, Data Engineering
+- 💡 Interests: NLP, LLMs, RAG Pipelines, Feature Stores, Vector DBs
 
-### Tempus AI | ML Engineer | Chicago, IL | Aug 2019 - Mar 2022
-- Built precision oncology pipelines using genomic and clinical datasets.
-- Deployed models for 6 pharmaceutical collaboration studies.
+---
 
-### Uptake Technologies | Data Scientist | Chicago, IL | Jun 2017 - Jul 2019
-- Developed predictive maintenance ML models for industrial IoT, saving ~$12M in downtime annually.
+## 🛠 Skills
 
-## Education
-- **M.S. Computer Science (ML Specialization)**, University of Illinois at Chicago, 2017
+| Category | Skills |
+|----------|--------|
+| **ML Frameworks** | PyTorch, TensorFlow, XGBoost, Hugging Face Transformers, LSTM, BERT |
+| **Cloud & MLOps** | AWS SageMaker, GCP AI Platform, Kubernetes, Docker, MLflow, Terraform |
+| **Data Engineering** | Delta Lake, Spark, Airflow, Feast, SQL, Python |
+| **AI Pipelines** | Vector Databases (Pinecone, pgvector), RAG Pipelines, LLM-ready architectures |
+| **Monitoring** | Grafana, Prometheus, CloudWatch |
 
-## Certifications
+
+---
+
+## 💼 Experience
+
+### Dreamlabsdigital | Senior AI/ML Engineer | Apr 2022 - Present
+- Lead a team of 4 engineers managing 12 production ML models.
+- Built clinical risk prediction systems achieving 0.89 AUC ROC.
+- Developed NLP pipelines automating 78% of manual chart reviews (40k docs/day).
+- Engineered real-time LLM inference infrastructure with GPU autoscaling.
+- Implemented responsible AI frameworks including bias auditing, model explainability (SHAP), and drift monitoring.
+
+### Tempus AI | ML Engineer | Aug 2019 - Mar 2022
+- Built precision oncology ML pipelines for genomic and clinical datasets.
+- Deployed models for 6 pharmaceutical collaboration studies with automated retraining.
+
+### Uptake Technologies | Data Scientist | Jun 2017 - Jul 2019
+- Predictive maintenance ML models for industrial IoT.
+- Processed 500M+ daily sensor readings to reduce downtime by $12M annually.
+
+---
+
+## 🎓 Education
+**M.S. Computer Science (ML Specialization)**
+University of Illinois at Chicago — 2017
+
+---
+
+## 🏆 Certifications
 - AWS Certified Machine Learning – Specialty
 - Google Cloud Professional Machine Learning Engineer
 - Databricks ML Associate
 
-## Projects
-- **Clinical Risk Prediction System**: Achieved 0.89 AUC ROC, reduced readmissions by 14%.
-- **NLP Document Processing**: Automated 78% of manual chart reviews processing 40k docs/day.
-- **Real-time ML Inference Infra**: Served 2.8M predictions/day at p99 latency <120ms, cut compute costs by 40%.
+---
 
-## Open Source & Speaking
-- Contributor to MLflow, Feast, and clinical-nlp-toolkit (490 stars).
-- Speaker at MLOps World 2024 & AMIA Clinical Informatics Conference 2023.
+## 🚀 Projects
+- **Clinical Risk Prediction System**: Reduced readmission rates by 14%.
+- **NLP Document Processing**: Automating 78% of manual chart reviews.
+- **Real-time ML Inference Infra**: 2.8M predictions/day at <120ms latency, 40% cost reduction.
+- **Feature Store Engineering**: Reduced duplication across 5 ML teams by 70%.
 
-![Machine Learning Animation](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif)
+---
 
-Connect with me: [GitHub](https://github.com/DONNELCELWIN) | [LinkedIn](https://linkedin.com/in/donnel-celwin-22345940b)
-'''
+## 🌐 Open Source & Speaking
+- Contributor: MLflow, Feast, clinical-nlp-toolkit (490 ⭐)
+- Speaker: MLOps World 2024, AMIA Clinical Informatics Conference 2023
 
-display(Markdown(readme_content))
+---
+
+## 📫 Connect
+[![GitHub](https://img.shields.io/badge/GitHub-DonnelCelwin-black?style=flat&logo=github)](https://github.com/DONNELCELWIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Donnel_Celwin-blue?style=flat&logo=linkedin)](https://linkedin.com/in/donnel-celwin-22345940b)
